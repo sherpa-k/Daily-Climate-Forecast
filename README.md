@@ -15,4 +15,4 @@ For this project, the data we used was obtained from kaggle and can be found her
 - Visulized the actual and predicted temperature along with the error bars using plotly's graph objects
 
 
-Note: In order to display the visualizations made with plotly in github, we had to store the graphs as .jpg files to make them static and then display them.
+Note: In order to display the visualizations made with plotly in github, we had to store the graphs as .jpg files to make them static and then use IPython to display them.
